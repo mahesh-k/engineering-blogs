@@ -710,6 +710,9 @@
 #### I technologies
 * IPFS https://ipfs.io/blog/
 
+#### J technologies
+* Java http://javahungry.blogspot.com/
+
 #### K technologies
 * Klipse http://blog.klipse.tech/
 
